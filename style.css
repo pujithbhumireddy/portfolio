@@ -135,3 +135,35 @@ footer {
   .footerp a{
     color: black;
   }
+
+  /* skills set */
+
+  .skill-set
+  {
+    width: 100%;
+    height: 100vh;
+    border: 2px solid black;
+    
+  }
+
+  .skill-set img
+  {
+
+    width: 100px;
+    height: 85px;
+
+  }
+  .skill-page
+  {
+
+    display:flex ;
+
+  }
+  .skill-container
+  {
+    display: block;
+    text-align: center;
+    justify-content: space-between;
+    padding: 15px;
+    margin-right: 15px;
+  }
