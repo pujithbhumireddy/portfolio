@@ -44,7 +44,7 @@ span:hover{
 
     background-color: hsl(0, 100%, 99%);
     border-radius: 8px;
-    box-shadow: 3px 3px hsl(0, 0%, 1%) 
+    box-shadow: -4px 5px hsla(0, 0%, 0%,1);
 }
 
 /*introduction page*/
