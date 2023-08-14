@@ -15,9 +15,11 @@
 }
 .skill-set h2{
 
-    font-size: 4rem;
+    font-size: 80px;
     margin-bottom: 0;
-    margin-left: 40px
+    margin-left: 40px;
+    color:#F0DE36;
+    font-weight: bolder;
 
 }
 
