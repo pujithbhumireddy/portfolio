@@ -13,13 +13,12 @@
     flex-wrap: wrap;
     justify-content:center ;
 }
-.skill-set h2{
+.skill-set h1{
 
     font-size: 80px;
     margin-bottom: 0;
     margin-left: 40px;
-    color:#F0DE36;
-    font-weight: bolder;
+    color:#F24C3D;
 
 }
 

@@ -50,7 +50,6 @@ body
 /*introduction page*/
 .introduction
 {   
-       
         font-weight: 500;
         font-size: 1.5rem;
         display: flex;
@@ -152,19 +151,20 @@ footer {
     justify-content: space-between;
     width: 100%;
 
-  }
+}
   
-  .footerh {
+.footerh {
     order: 1;
     margin-left: 10px;
-  }
+}
   
-  .footerp {
+.footerp {
     order: 2;
     margin-right: 10px;
     color: black;
     font-size: 20px;
-  }
-  .footerp a{
+    font-weight: bold;
+}
+.footerp a{
     color: black;
-  }
+}
