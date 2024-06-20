@@ -78,13 +78,15 @@ body
 
 /* education styles */
 .edu {
-  display: flex;
-  align-items: center;
-  max-width: 100%;
-  overflow: hidden;
-  height: 100vh;
-  align-items: center;
-  justify-content: space-between;
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+    overflow: hidden;
+    height: calc(100svh - 60px); 
+    justify-content: space-between;
+    /* padding: 20px; */
+    padding-top:120px ; 
+    box-sizing: border-box;
 }
 
 .edu img {
@@ -105,10 +107,10 @@ body
 {
   font-size: 25px;
 }
-
+/* 
 .education-details {
   margin-bottom: 20px;
-}
+} */
 
 /*lets talk*/
 
@@ -121,6 +123,8 @@ body
   display: flex;
   justify-content: flex-start;
   align-items: center;
+  /* padding-top: 30px; */
+  margin-top: 40px;
   
 
 }
